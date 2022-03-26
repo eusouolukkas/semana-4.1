@@ -1,0 +1,22 @@
+.estilo-borda {
+    border-top: 10px solid red;
+    border-bottom: 10px solid blue;
+}
+
+p {
+    background-color: pink;
+    margin: 0;
+}
+
+.tabelas table {
+    width: 100%;
+}
+
+.tabelas table th,
+.tabelas table td {
+    border: 1px solid black;
+}
+
+.tabelas table tr :hover {
+    background-color: #ccc
+}
